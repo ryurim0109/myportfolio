@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import "./index.css";
-import Typing, { TypingMultiline } from 'react-kr-typing-anim';
+import { TypingMultiline } from 'react-kr-typing-anim';
 
 const Main = (props) => {
    
