@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+ul,li{
+  list-style: none;
+}
+
+@font-face{
+  font-family: "Fredok";
+  font-style: normal;
+  font-weight: bold;
+  src: url("./font/FredokaOne-Regular.ttf") format('truetype');
+}
+
+@font-face{
+  font-family: "NanumB";
+  font-style: normal;
+  font-weight: bold;
+  src: url("./font/NanumGothicCoding-Bold.ttf") format('truetype');
+}
+@font-face{
+  font-family: "Nanum";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./font/NanumGothicCoding-Regular.ttf") format('truetype');
+}
