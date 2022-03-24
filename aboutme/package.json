@@ -27,7 +27,7 @@
     "eject": "react-scripts eject",
     "integration-test": "start-server-and-test 'server build -l 3000' http://localhost:3000",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "deploy" : "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

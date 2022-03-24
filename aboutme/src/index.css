@@ -29,14 +29,14 @@ ul,li{
 }
 
 @font-face{
-  font-family: "NanumB";
-  font-style: normal;
-  font-weight: bold;
-  src: url("./font/NanumGothicCoding-Bold.ttf") format('truetype');
-}
-@font-face{
-  font-family: "Nanum";
+  font-family: "NotoSansKR";
   font-style: normal;
   font-weight: normal;
-  src: url("./font/NanumGothicCoding-Regular.ttf") format('truetype');
+  src: url("./font/NotoSansKR-Regular.otf") format('opentype');
+}
+@font-face{
+  font-family: "Gugi";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./font/Gugi-Regular.ttf") format('truetype');
 }
